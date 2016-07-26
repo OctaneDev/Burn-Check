@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Burn Check</string>
+	
+	<!-- MainActivity Strings -->
+	<string name="hello">If you have a device with an AMOLED display, it is prone to habing images burnt into the screen. This app allows you to check for these burn ins with a series of colors. If any image stays on your screen or part of your screen is a different shade than another, that indicates something has been burnt into your screen. Click \"Start\" to begin. Click on your screen to change the color.</string>
+	<string name="start">Start</string>
+	
+	<!-- End Strings -->
+	<string name="end">The test is done! If you saw anything other than just the solid colors, that means somethinf was burnt into your screen and you should have it looked at by a professional.</string>
+	<string name="back">Back to the Main Menu</string>
+
+</resources>
